@@ -61,32 +61,27 @@ Welcome to the academic journey through the Computer Science & Engineering curri
 ---
 
 ### Level 3 Term 2
-> *To be decided (TBD)... Stay tuned!*
+> *Stay tuned!*
 
 ---
 
 ### Level 4 Term 1
-> *TBD... Upcoming materials will be shared soon.*
+> *Stay tuned!*
 
 ---
 
 ### Level 4 Term 2
-> *TBD... Details will be added as they become available.*
+> *Stay tuned!*
 
 ---
 
-## 🛠️ Tech Stack & Tools
-Some popular technologies and tools used throughout the courses:
-- **Programming Languages**: `C`, `C++`, `Java`, `Python`
-- **Frameworks & Libraries**: `React.js`, `Node.js`
-- **Tools**: `Git`, `GitHub`, `VSCode`, `Eclipse`
 
----
 
 ## 📫 Contact
-For any inquiries or discussions, please feel free to reach out on [GitHub](https://github.com/shadmantabib).
+For any inquiries or discussions, please feel free to reach out on [GitHub](https://github.com/shadmantabib) or via email at [shadmantabib2002@gmail.com](mailto:shadmantabib2002@gmail.com).
+
 
 ---
 
-> “Knowledge is power.” - *Francis Bacon*
+
 
