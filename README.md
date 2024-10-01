@@ -16,7 +16,7 @@ Welcome to the academic journey through the Computer Science & Engineering curri
 
 ---
 
-## 🏆 Academic Progress
+##  Academic Progress
 
 ### Level 1 Term 1
 | 📘 Course | 📂 Project/Materials |
