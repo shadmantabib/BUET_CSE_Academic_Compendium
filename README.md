@@ -1,6 +1,6 @@
 # 🎓 BUET CSE Academic Compendium 📚
 
-Welcome to the academic journey through the Computer Science & Engineering curriculum at **Bangladesh University of Engineering and Technology (BUET)**. Explore a curated list of projects, assignments, and course materials. 
+Welcome to the academic journey through the Computer Science & Engineering curriculum at **Bangladesh University of Engineering and Technology (BUET)**. Here is a compendium of my theory and sessional courses taken so far
 
 ---
 
