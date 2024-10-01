@@ -26,7 +26,7 @@
 ## Level 2 Term 2
 - [CSE 208 | Data Structures and Algorithms II Sessional](https://github.com/shadmantabib/DSA-2)
 - [CSE 216 | Database Sessional - Project](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup)
-- [CSE 208 | Theory Of Computation Turing Machine Simulation](https://github.com/shadmantabib/TOC)
+- [CSE 211 | Theory Of Computation Turing Machine Simulation](https://github.com/shadmantabib/TOC)
 
 ## Level 3 Term 1
 - [CSE 300 | Technical Writing and Presentation](https://github.com/shadmantabib/CSE-300)
