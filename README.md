@@ -44,7 +44,7 @@ Welcome to the academic journey through the Computer Science & Engineering curri
 | 📘 Course | 📂 Project/Materials |
 | --------- | --------------------- |
 | **CSE 208** - Data Structures and Algorithms II Sessional | [Course Materials](https://github.com/shadmantabib/DSA-2) |
-| **CSE 216** - Database Sessional | [DB Project: Cricitup](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup) <br> [YouTube Demonstration](https://youtu.be/1WTVka0U-xw?feature=shared)) |
+| **CSE 216** - Database Sessional | [DB Project: Cricitup](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup) <br> [YouTube Demonstration](https://youtu.be/1WTVka0U-xw?feature=shared) |
 | **CSE 211** - Theory Of Computation | [Turing Machine Simulation](https://github.com/shadmantabib/TOC) |
 
 
