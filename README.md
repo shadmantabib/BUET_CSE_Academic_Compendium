@@ -1,6 +1,6 @@
 # 🎓 BUET CSE Academic Compendium 📚
 
-Welcome to the academic journey through the Computer Science & Engineering curriculum at **Bangladesh University of Engineering and Technology (BUET)**. Here is a compendium of my theory and sessional courses taken so far
+Welcome to the academic journey through the Computer Science & Engineering curriculum at **Bangladesh University of Engineering and Technology (BUET)**. Here is a compendium of my theory and sessional courses taken so far.
 
 ---
 
@@ -16,78 +16,71 @@ Welcome to the academic journey through the Computer Science & Engineering curri
 
 ---
 
-##  Academic Progress
+## 🎯 Academic Progress
 
-### Level 1 Term 1
-| 📘 Course | 📂 Project/Materials |
-| --------- | --------------------- |
-| **CSE 102** - Structured Programming Language Sessional | [Woodland Escapade Project ](https://github.com/shadmantabib/Woodland-Escapade) |
-
----
-
-### Level 1 Term 2
-| 📘 Course | 📂 Project/Materials |
-| --------- | --------------------- |
-| **CSE 108** - Object Oriented Programming Language Sessional | [Java Project ](https://github.com/shadmantabib/cse-108) |
-| **CSE 103** - Discrete Mathematics | [Course Materials ](https://github.com/shadmantabib/CSE-103) |
+### 🧩 Level 1 Term 1
+| 📘 **Course** | 📂 **Project / Materials** |
+|--------------|-----------------------------|
+| 💻 **CSE 102** — *Structured Programming Language Sessional* | [🌲 Woodland Escapade](https://github.com/shadmantabib/Woodland-Escapade) |
 
 ---
 
-### Level 2 Term 1
-| 📘 Course | 📂 Project/Materials |
-| --------- | --------------------- |
-| **CSE 204** - Data Structures and Algorithms I Sessional | [Course Materials ](https://github.com/shadmantabib/DSA-1) |
+### 🧩 Level 1 Term 2
+| 📘 **Course** | 📂 **Project / Materials** |
+|--------------|-----------------------------|
+| ☕ **CSE 108** — *Object Oriented Programming Language Sessional* | [🔗 Java Project](https://github.com/shadmantabib/cse-108) |
+| 🧮 **CSE 103** — *Discrete Mathematics* | [📘 Course Materials](https://github.com/shadmantabib/CSE-103) |
 
 ---
 
-### Level 2 Term 2
-| 📘 Course | 📂 Project/Materials |
-| --------- | --------------------- |
-| **CSE 208** - Data Structures and Algorithms II Sessional | [Course Materials](https://github.com/shadmantabib/DSA-2) |
-| **CSE 216** - Database Sessional | [DB Project: Cricitup](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup) <br> [YouTube Demonstration](https://youtu.be/1WTVka0U-xw?feature=shared) |
-| **CSE 211** - Theory Of Computation | [Turing Machine Simulation](https://github.com/shadmantabib/TOC) |
-
+### 🧩 Level 2 Term 1
+| 📘 **Course** | 📂 **Project / Materials** |
+|--------------|-----------------------------|
+| 🧵 **CSE 204** — *Data Structures and Algorithms I Sessional* | [📘 Course Materials](https://github.com/shadmantabib/DSA-1) |
 
 ---
 
-### Level 3 Term 1
-| 📘 Course | 📂 Project/Materials |
-| --------- | --------------------- |
-| **CSE 300** - Technical Writing and Presentation | [Presentations & Materials ](https://github.com/shadmantabib/CSE-300) |
-| **CSE 306** - Computer Architecture Sessional | [MIPS Architecture ](https://github.com/shadmantabib/CSE-306_MIPS) |
-| **CSE 308** - Software Engineering Sessional | [Software Eng. Projects ](https://github.com/shadmantabib/CSE-308-Software-Eng) |
-| **CSE 310** - Compiler Sessional | [Compiler Project ](https://github.com/shadmantabib/CSE-310) |
-| **CSE 316** - Microprocessors, Microcontrollers, and Embedded Systems | [Sessional Materials ](https://github.com/shadmantabib/CSE-316) |
+### 🧩 Level 2 Term 2
+| 📘 **Course** | 📂 **Project / Materials** |
+|--------------|-----------------------------|
+| 🧵 **CSE 208** — *Data Structures and Algorithms II Sessional* | [📘 Course Materials](https://github.com/shadmantabib/DSA-2) |
+| 🗃️ **CSE 216** — *Database Sessional* | [🏏 Cricitup Project](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup) <br> [▶️ YouTube Demo](https://youtu.be/1WTVka0U-xw?feature=shared) |
+| 🧠 **CSE 211** — *Theory Of Computation* | [🧮 Turing Machine Simulation](https://github.com/shadmantabib/TOC) |
 
 ---
 
-### Level 3 Term 2
-| 📘 Course | 📂 Project/Materials |
-| --------- | --------------------- |
-| **CSE 318** - Artificial Intelligence | [AI Sessional Repo](https://github.com/shadmantabib/CSE_318) |
-| **CSE 314** - Operating Systems | [OS Repo](https://github.com/shadmantabib/CSE-314-OS) |
-| **CSE 322** - Computer Networks | [Networks Repo](https://github.com/shadmantabib/CSE-322-Network) |
-| **CSE 326** - Information System Design | [ISD Repo](https://github.com/shadmantabib/CSE-326) |
+### 🧩 Level 3 Term 1
+| 📘 **Course** | 📂 **Project / Materials** |
+|--------------|-----------------------------|
+| 📝 **CSE 300** — *Technical Writing and Presentation* | [📄 Presentations & Materials](https://github.com/shadmantabib/CSE-300) |
+| 🧮 **CSE 306** — *Computer Architecture Sessional* | [🏗️ MIPS Architecture](https://github.com/shadmantabib/CSE-306_MIPS) |
+| 🧑‍💻 **CSE 308** — *Software Engineering Sessional* | [🛠️ Software Eng. Offlines](https://github.com/shadmantabib/CSE-308-Software-Eng) |
+| 🧾 **CSE 310** — *Compiler Sessional* | [📘 Compiler Offlines](https://github.com/shadmantabib/CSE-310) |
+| 🔌 **CSE 316** — *Microprocessors, Microcontrollers, and Embedded Systems* | [📂 Sessional Materials](https://github.com/shadmantabib/CSE-316) |
 
 ---
 
-### Level 4 Term 1
+### 🧩 Level 3 Term 2
+| 📘 **Course** | 📂 **Project / Materials** |
+|--------------|-----------------------------|
+| 🧠 **CSE 318** — *Artificial Intelligence Sessional* | [🤖 AI Sessional Repository](https://github.com/shadmantabib/CSE_318) |
+| 🖥️ **CSE 314** — *Operating Systems* | [🗃️ OS Repository](https://github.com/shadmantabib/CSE-314-OS) |
+| 🌐 **CSE 322** — *Computer Networks* | [🌍 Networks Repository](https://github.com/shadmantabib/CSE-322-Network) |
+| 🗄️ **CSE 326** — *Information System Design* | [📊 ISD Repository](https://github.com/shadmantabib/CSE-326) |
+
+---
+
+### 🧩 Level 4 Term 1
 > *Stay tuned!*
 
 ---
 
-### Level 4 Term 2
+### 🧩 Level 4 Term 2
 > *Stay tuned!*
 
 ---
 
-
-
-## 📫 Contact
-For any inquiries or discussions, please feel free to reach out on [GitHub](https://github.com/shadmantabib) or via email at [shadmantabib2002@gmail.com](mailto:shadmantabib2002@gmail.com).
-
+## 📫 Contact  
+For any inquiries or discussions, feel free to connect on [GitHub](https://github.com/shadmantabib) or via email at [shadmantabib2002@gmail.com](mailto:shadmantabib2002@gmail.com).
 
 ---
-
-
-
