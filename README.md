@@ -62,7 +62,12 @@ Welcome to the academic journey through the Computer Science & Engineering curri
 ---
 
 ### Level 3 Term 2
-> *Stay tuned!*
+| 📘 Course | 📂 Project/Materials |
+| --------- | --------------------- |
+| **CSE 318** - Artificial Intelligence | [AI Sessional Repo](https://github.com/shadmantabib/CSE_318) |
+| **CSE 314** - Operating Systems | [OS Repo](https://github.com/shadmantabib/CSE-314-OS) |
+| **CSE 322** - Computer Networks | [Networks Repo](https://github.com/shadmantabib/CSE-322-Network) |
+| **CSE 326** - Information System Design | [ISD Repo](https://github.com/shadmantabib/CSE-326) |
 
 ---
 
