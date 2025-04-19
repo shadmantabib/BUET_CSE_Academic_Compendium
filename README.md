@@ -6,8 +6,6 @@
 ### Department of Computer Science & Engineering
 
 
-*"Engineering Excellence Through Computational Intelligence"*
-
 </div>
 
 ---
