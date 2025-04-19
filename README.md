@@ -5,7 +5,6 @@
 ## Bangladesh University of Engineering and Technology
 ### Department of Computer Science & Engineering
 
-<img src="/api/placeholder/200/200" alt="BUET CSE Logo Placeholder" />
 
 *"Engineering Excellence Through Computational Intelligence"*
 
@@ -15,7 +14,7 @@
 
 <div align="center">
   
-### Shadman Sakib Tabib
+### H.M. Shadman Tabib
 ##### Computer Science & Engineering Undergraduate
 
 [![GitHub](https://img.shields.io/badge/GitHub-shadmantabib-181717?style=for-the-badge&logo=github)](https://github.com/shadmantabib)
