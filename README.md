@@ -87,11 +87,20 @@ Undergraduate Student, Computer Science and Engineering
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Level 4</strong></summary>
 
-### Term 1  
+### Term 1
+| Course Code | Course Title | Projects & Resources |
+|:-----------:|:-------------|:----------------------|
+| CSE 406 | Security Sessional | [Security Project](https://github.com/shadmantabib/CSE-406----secuity) |
+| CSE 410 | Computer Graphics Sessional | [Graphics Project](https://github.com/shadmantabib/CSE-410---computer-graphics) |
+| CSE 408| Software Development | [CareSync Project](https://github.com/shadmantabib/CareSync---Software-Development) |
+
+### Term 2  
 *Coming soon*
+
+</details>
 
 ### Term 2  
 *Coming soon*
