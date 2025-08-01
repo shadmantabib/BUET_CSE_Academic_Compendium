@@ -59,9 +59,9 @@ Undergraduate Student, Computer Science and Engineering
 | Course Code | Course Title | Projects & Resources |
 |:-----------:|:-------------|:----------------------|
 | CSE 208 | Data Structures and Algorithms II Sessional | [Course Materials](https://github.com/shadmantabib/DSA-2) |
-| CSE 216 | Database Sessional | [Cricitup Project](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup)  
-[YouTube Demo](https://youtu.be/1WTVka0U-xw?feature=shared) |
+| CSE 216 | Database Sessional | [Cricitup Project](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup)<br>[YouTube Demo](https://youtu.be/1WTVka0U-xw?feature=shared) |
 | CSE 211 | Theory of Computation | [Turing Machine Simulation](https://github.com/shadmantabib/TOC) |
+
 
 </details>
 
