@@ -102,11 +102,6 @@ Undergraduate Student, Computer Science and Engineering
 
 </details>
 
-### Term 2  
-*Coming soon*
-
-</details>
-
 ---
 
 ## Technical Skills
