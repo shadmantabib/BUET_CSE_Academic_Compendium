@@ -31,6 +31,7 @@ Undergraduate Student, Computer Science and Engineering
 
 ## Academic Progress
 
+<a name="level-1"></a>
 <details open>
 <summary><strong>Level 1</strong></summary>
 
@@ -47,6 +48,7 @@ Undergraduate Student, Computer Science and Engineering
 
 </details>
 
+<a name="level-2"></a>
 <details open>
 <summary><strong>Level 2</strong></summary>
 
@@ -62,9 +64,9 @@ Undergraduate Student, Computer Science and Engineering
 | CSE 216 | Database Sessional | [Cricitup Project](https://github.com/shadmantabib/CSE-216-DB_project_Cricitup)<br>[YouTube Demo](https://youtu.be/1WTVka0U-xw?feature=shared) |
 | CSE 211 | Theory of Computation | [Turing Machine Simulation](https://github.com/shadmantabib/TOC) |
 
-
 </details>
 
+<a name="level-3"></a>
 <details open>
 <summary><strong>Level 3</strong></summary>
 
@@ -87,6 +89,7 @@ Undergraduate Student, Computer Science and Engineering
 
 </details>
 
+<a name="level-4"></a>
 <details open>
 <summary><strong>Level 4</strong></summary>
 
@@ -95,7 +98,7 @@ Undergraduate Student, Computer Science and Engineering
 |:-----------:|:-------------|:----------------------|
 | CSE 406 | Security Sessional | [Security Sessional](https://github.com/shadmantabib/CSE-406) |
 | CSE 410 | Computer Graphics Sessional | [Graphics Sessional](https://github.com/shadmantabib/CSE-410) |
-| CSE 408| Software Development | [CareSync Project](https://github.com/shadmantabib/CareSync) |
+| CSE 408 | Software Development | [CareSync Project](https://github.com/shadmantabib/CareSync) |
 
 ### Term 2  
 *Coming soon*
